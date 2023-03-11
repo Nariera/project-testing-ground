@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-cd874": {
+      "hosting": {
+        "project-testing-ground": [
+          "testing-ground-221c4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-cd874"
+  }
+}
